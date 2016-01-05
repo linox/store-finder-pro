@@ -85,7 +85,5 @@ Email | Password
 --- | ---
 info@example.com | welcome
 
-After login you will be prompted to change your e-mail address. 
-
 ### License
 GNU General Public License v3.0
